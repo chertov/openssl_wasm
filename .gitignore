@@ -1,0 +1,6 @@
+*
+!*/
+!build.Dockerfile
+!build.sh
+
+!.gitignore
